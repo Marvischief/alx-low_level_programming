@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * positive_or_negative - Get a random number and print the number
+ * and if it is a positive, negative, or zero
+ * @i: number to be checked
+ */
 
 void positive_or_negative(int i)
 {
